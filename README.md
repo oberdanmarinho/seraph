@@ -43,7 +43,7 @@ ________________________________________________________________________________
 
 ## Banco de dados: seraph_crud
 
-```SQL CREATE TABLE `crud_login` (
+SQL CREATE TABLE `crud_login` (
   `id` int(11) unsigned NOT NULL AUTO_INCREMENT,
   `username` varchar(50) DEFAULT NULL,
   `login` varchar(15) DEFAULT NULL,
@@ -56,4 +56,4 @@ CREATE TABLE `crud_members` (
   `name` varchar(250) COLLATE utf8_unicode_ci NOT NULL DEFAULT '',
   `office` varchar(250) COLLATE utf8_unicode_ci NOT NULL DEFAULT '',
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=32 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci; ```
+) ENGINE=InnoDB AUTO_INCREMENT=32 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
