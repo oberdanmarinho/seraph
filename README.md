@@ -8,7 +8,7 @@ Teste Dev Oberdan dos Reis marinho
 4) Desafio 4 - PDF        (Concluido)
 5) Desafio 5 - API 02     (Concluido)
 6) GitHUB                 (Concluido)
-_______________________________________________________________________________________
+_________________________________________________________________________________________
 
 Para consumir api
 
@@ -39,7 +39,7 @@ http://localhost/seraph/api/getall
 pegar por id
 http://localhost/seraph/api/getbyid/{id}
 
-_______________________________________________________________________________________
+_________________________________________________________________________________________
 
 ## Banco de dados: seraph_crud
 
